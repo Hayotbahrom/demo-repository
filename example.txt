@@ -6,3 +6,5 @@ clone by ssh
 git config user.name "username"
 git config user.email "email@address.com"
 exc
+
+i changed this file

@@ -1,0 +1,8 @@
+i am learning github deeply
+so i created new file to know about git status
+and now i learned different things:
+create and configure ssh-key, 
+clone by ssh
+git config user.name "username"
+git config user.email "email@address.com"
+exc

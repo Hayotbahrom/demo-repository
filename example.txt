@@ -6,8 +6,8 @@ clone by ssh
 git config user.name "username"
 git config user.email "email@address.com"
 exc
-
 i changed this file
-
-
 i am trying how to see GitGUI
+------------------------------------------------
+i ordered all lines
+------------------------------------------------

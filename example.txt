@@ -6,8 +6,7 @@ clone by ssh
 git config user.name "username"
 git config user.email "email@address.com"
 exc
-
 i changed this file
-
-
 i am trying how to see GitGUI
+----------------------------
+created new feature branch and i am using new branch, i want to see conflict

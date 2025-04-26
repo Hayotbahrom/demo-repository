@@ -11,3 +11,5 @@ i am trying how to see GitGUI
 ----------------------------
 
 i am in main branch, i added new content to see what happen now
+---------------------------------------
+main : i added new changes

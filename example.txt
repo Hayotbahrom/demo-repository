@@ -8,8 +8,13 @@ git config user.email "email@address.com"
 exc
 i changed this file
 i am trying how to see GitGUI
-----------------------------
 
+----------------------------
 i am in main branch, i added new content to see what happen now
 ---------------------------------------
 main : i added new changes
+
+
+i am trying how to see GitGUI
+-----------------
+feature: some changes with conflict

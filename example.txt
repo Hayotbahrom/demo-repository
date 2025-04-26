@@ -11,3 +11,5 @@ i changed this file
 
 
 i am trying how to see GitGUI
+-----------------
+feature: some changes with conflict

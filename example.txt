@@ -9,4 +9,5 @@ exc
 i changed this file
 i am trying how to see GitGUI
 ----------------------------
-created new feature branch and i am using new branch, i want to see conflict
+
+i am in main branch, i added new content to see what happen now
